@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Coindicator
+GenericName=Cryptocoin price ticker
+Comment=Keep track of the cryptocoin prices on various exchanges
+Terminal=false
+Type=Application
+Categories=Utility;Network;
+Keywords=crypto;coin;ticker;price;exchange;
+StartupNotify=false
+Exec=/home/chon/Downloads/coinprice-indicator-master/run.sh
+Icon=/home/chon/Downloads/coinprice-indicator-master/resources/logo_248px.png
